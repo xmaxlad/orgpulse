@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/commands/fetch.ts","./src/commands/top.ts"],"version":"5.9.2"}
+{"root":["./src/index.ts","./src/commands/export.ts","./src/commands/fetch.ts","./src/commands/init.ts","./src/commands/sync-stars.ts","./src/commands/top.ts","./src/db/createindexes.ts","./src/db/index.ts"],"version":"5.9.2"}
